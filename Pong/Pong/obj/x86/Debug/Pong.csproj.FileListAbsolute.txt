@@ -1,0 +1,70 @@
+C:\Users\TEMP.NAVE.002\Desktop\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP.NAVE.002\Desktop\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\TEMP.NAVE.002\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\PongBackground02.xnb
+C:\Users\TEMP.NAVE.002\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\PongGame.xnb
+C:\Users\TEMP.NAVE.002\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\PongMenu.xnb
+C:\Users\TEMP.NAVE.002\Desktop\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+C:\Users\TEMP.NAVE.002\Desktop\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+C:\Users\TEMP.NAVE.002\Desktop\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Users\TEMP.NAVE.002\Desktop\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+E:\Pong\Pong\Pong\bin\x86\Debug\Content\PongBackground02.xnb
+E:\Pong\Pong\Pong\bin\x86\Debug\Content\PongGame.xnb
+E:\Pong\Pong\Pong\bin\x86\Debug\Content\PongMenu.xnb
+E:\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+E:\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+E:\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+E:\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\TEMP.NAVE.003\Desktop\Pong XNA e Sociologia\Pong XNA\Pong\Pong\Pong\bin\x86\Debug\Content\PongBackground02.xnb
+C:\Users\TEMP.NAVE.003\Desktop\Pong XNA e Sociologia\Pong XNA\Pong\Pong\Pong\bin\x86\Debug\Content\PongGame.xnb
+C:\Users\TEMP.NAVE.003\Desktop\Pong XNA e Sociologia\Pong XNA\Pong\Pong\Pong\bin\x86\Debug\Content\PongMenu.xnb
+C:\Users\TEMP.NAVE.003\Desktop\Pong XNA e Sociologia\Pong XNA\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+C:\Users\TEMP.NAVE.003\Desktop\Pong XNA e Sociologia\Pong XNA\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+C:\Users\TEMP.NAVE.003\Desktop\Pong XNA e Sociologia\Pong XNA\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP.NAVE.003\Desktop\Pong XNA e Sociologia\Pong XNA\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\TEMP.NAVE.003\Desktop\Pong XNA e Sociologia\Pong XNA\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Users\TEMP.NAVE.003\Desktop\Pong XNA e Sociologia\Pong XNA\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\Alex\Desktop\Pong XNA 02\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Pong XNA 02\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alex\Desktop\Pong XNA 02\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Users\Alex\Desktop\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Content\PongBackground02.xnb
+C:\Users\Alex\Desktop\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Content\PongGame.xnb
+C:\Users\Alex\Desktop\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Content\PongMenu.xnb
+C:\Users\Alex\Desktop\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+C:\Users\Alex\Desktop\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+C:\Users\Alex\Desktop\Pong XNA 02\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+E:\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Content\PongBackground02.xnb
+E:\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Content\PongGame.xnb
+E:\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Content\PongMenu.xnb
+E:\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+E:\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+E:\Pong XNA 02\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Pong XNA 02\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Pong XNA 02\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+E:\Pong XNA 02\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+G:\Pong XNA 02\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Pong XNA 02\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Pong XNA 02\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+G:\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Content\PongBackground02.xnb
+G:\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Content\PongGame.xnb
+G:\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Content\PongMenu.xnb
+G:\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+G:\Pong XNA 02\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+G:\Pong XNA 02\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\PongGame.xnb
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\PongMenu.xnb
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\PongBallHit.xnb
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\PongBallLost.xnb
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\PongBackground.xnb
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\bin\x86\Debug\Content\PongBallHitPaddle.xnb
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\bin\x86\Debug\Pong.exe.manifest
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\bin\x86\Debug\Pong.application
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\obj\x86\Debug\Pong.exe.manifest
+C:\Users\Vitor\Desktop\Pong\Pong\Pong\obj\x86\Debug\Pong.application

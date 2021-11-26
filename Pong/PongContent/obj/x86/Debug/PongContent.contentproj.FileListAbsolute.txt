@@ -1,0 +1,7 @@
+C:\Users\TEMP.NAVE.002\Desktop\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP.NAVE.003\Desktop\Pong XNA e Sociologia\Pong XNA\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Pong XNA 02\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Pong XNA 02\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Pong XNA 02\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vitor\Desktop\Pong\Pong\PongContent\obj\x86\Debug\ResolveAssemblyReference.cache
