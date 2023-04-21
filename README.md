@@ -16,9 +16,6 @@ http://www.microsoft.com/en-us/download/details.aspx?id=23714
 ## Como jogar
 O jogo é simples: há dois jogadores, cada um controlando uma barra na tela. O objetivo é acertar a bola com a barra para que ela passe para o outro lado da tela e o oponente não consiga pegá-la. Se a bola passar pela barra do oponente, você marca um ponto. O jogo termina quando um jogador marca 10 pontos.
 
-## Licença
-Este projeto é licenciado sob a Licença MIT. Consulte o arquivo LICENSE.md para obter mais informações.
-
 ## Autor
 Este jogo foi desenvolvido por Vitor Martins na aula ministrada pelo professor Yves na turma 2003 de 2011.
 
