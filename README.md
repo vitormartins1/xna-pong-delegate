@@ -8,10 +8,9 @@ Antes de aprender o XNA, estávamos sendo introduzidos à linguagem C# por meio 
 ## Instruções
 Para jogar, é necessário compilar o código usando o Visual Studio. Certifique-se de ter o XNA Framework instalado em seu sistema. Depois de compilar, execute o arquivo .exe gerado para iniciar o jogo.
 
-Instalar o Visual c# 2010:
+- Instalar o Visual c# 2010:
 http://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-csharp-express
-
-Instalar o XNA 4.0:
+- Instalar o XNA 4.0:
 http://www.microsoft.com/en-us/download/details.aspx?id=23714
 
 ## Como jogar
