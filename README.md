@@ -16,9 +16,6 @@ http://www.microsoft.com/en-us/download/details.aspx?id=23714
 ## Como jogar
 O jogo é simples: há dois jogadores, cada um controlando uma barra na tela. O objetivo é acertar a bola com a barra para que ela passe para o outro lado da tela e o oponente não consiga pegá-la. Se a bola passar pela barra do oponente, você marca um ponto. O jogo termina quando um jogador marca 10 pontos.
 
-## Contribuindo
-Este projeto foi desenvolvido há bastante tempo e não está mais sendo atualizado. No entanto, sinta-se à vontade para fazer um fork do repositório e criar suas próprias versões do jogo ou usar o código como base para seus próprios projetos.
-
 ## Licença
 Este projeto é licenciado sob a Licença MIT. Consulte o arquivo LICENSE.md para obter mais informações.
 
@@ -26,7 +23,7 @@ Este projeto é licenciado sob a Licença MIT. Consulte o arquivo LICENSE.md par
 Este jogo foi desenvolvido por Vitor Martins na aula ministrada pelo professor Yves na turma 2003 de 2011.
 
 ## Conclusão
-Este é um projeto simples e foi desenvolvido com a finalidade de estudar o framework XNA. Embora seja um projeto antigo, ainda considero que tenha sido muito importante para minha evolução como desenvolvedor de jogos. Sinta-se livre para baixar, modificar e compartilhar o código. Qualquer contribuição é bem-vinda!
+Este é um projeto simples e foi desenvolvido com a finalidade de estudar o framework XNA. Embora seja um projeto antigo, ainda considero que tenha sido muito importante para minha evolução como desenvolvedor. Sinta-se livre para baixar, modificar e compartilhar o código. Qualquer contribuição é bem-vinda!
 
 ## Agradecimentos
 Gostaria de agradecer ao professor Yves por ter me ensinado todos os detalhes do código e por ter me dado a oportunidade de aprender com este projeto.
